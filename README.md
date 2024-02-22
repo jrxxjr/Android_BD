@@ -1,5 +1,5 @@
 Portuguese:  
-﻿﻿﻿# Exemplo de aplicação Android usando banco de dados  
+# Exemplo de aplicação Android usando banco de dados  
 
 Exemplo de Aplicação Android usando banco de dados SQLite.  
 
