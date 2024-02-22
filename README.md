@@ -5,9 +5,7 @@ Exemplo de Aplicação Android usando banco de dados SQLite.
 
 1 - Foi criado um projeto Android do Eclipse, é só importar esse projeto,   
 como um projeto existente no workspace no Eclipse.    
-
-
-
+_________________________________________________________________________________________
 English:
 # Example of an Android application using a database  
 
